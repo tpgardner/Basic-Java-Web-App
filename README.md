@@ -1,5 +1,5 @@
 # Basic-Java-Web-App
-Demoing the framework for a basic Java web application
+Demoing the framework for a hello world Java web application using applet and Tomcat Apache server
 
 Resources consulted
 Java Web Application Tutorial
